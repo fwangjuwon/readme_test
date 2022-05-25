@@ -123,7 +123,7 @@
 |------|------|
 |![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ibb.co/zxqhdS7)|
 | 로그아웃 기능 | 회원정보 수정기능 |
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ibb.co/kHRYwdr)|
+|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](<a href="https://ibb.co/1MnQYZC"><img src="https://i.ibb.co/2S6h0qz/update-user.gif" alt="update-user" border="0" /></a>)|
 | 회원탈퇴 기능 | 아이디/비밀번호 찾기 |
 |![이미지1](https://ibb.co/CbQZkLB)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
 
