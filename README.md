@@ -36,16 +36,14 @@
 🔗 [https://drive.google.com/drive/folders/1a44wdBKWE6OrUSmXG6B3PWgNdIsPQH7S]
 
 # 🐱ERD
-
-<img src = "https://ibb.co/5kbxpr2"/>
+<a href="https://ibb.co/5kbxpr2"><img src="https://i.ibb.co/qCTFqNx/ERD-v2.png" alt="ERD-v2" border="0" /></a>
 
 # 🐱기능 소개
 
-<img src = "https://ibb.co/M7HNkVT " />
+<a href="https://ibb.co/M7HNkVT"><img src="https://i.ibb.co/rHhy26P/220423.png" alt="220423" border="0" /></a>
 
 # 🐱****프로젝트 개발 환경****
-
-<img src = "https://ibb.co/wLqgGH1" />
+<a href="https://ibb.co/wLqgGH1"><img src="https://i.ibb.co/7zDCMcF/icon-common.png" alt="icon-common" border="0" /></a>
 
 - **개발 언어**: Java 11, HTML 5, CSS, JavaScript
 - **DataBase**: MariaDB 10.6
