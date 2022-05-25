@@ -3,94 +3,49 @@
 ### **Spring Boot를 활용한 반려동물 동반 여행 플랫폼 만들기**
 
 - **팀 프로젝트 기간 : 2022.03.21~2022.04.23**
-    
-    ![프로젝트 일정.png](%E1%84%82%E1%85%A3%E1%86%BC%E1%84%83%E1%85%A9%20%E1%84%82%E1%85%A9%E1%86%AF%E1%84%85%E1%85%A5%E1%84%80%E1%85%A1%E1%84%80%E1%85%A9%20%E1%84%89%E1%85%B5%E1%87%81%E1%84%83%E1%85%A2%E1%86%BC%20-%20%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%83%E1%85%A9%20%E1%84%87%E1%85%A1%E1%86%AB%E1%84%85%E1%85%A7%E1%84%83%E1%85%A9%E1%86%BC%E1%84%86%E1%85%AE%E1%86%AF%20%E1%84%8B%E1%85%A7%E1%84%92%E1%85%A2%2005f70225dee54eeeb9c4d1848ac5d807/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8_%EC%9D%BC%EC%A0%95.png)
-    
-    <aside>
-    ✅ 프로젝트 기획 및 설계 기간 : 22.03.21~22.04.01
-    구현 및 단위 테스트 기간 : 22.04.04~22.04.21
-    통합 테스트 기간 : 22.04.20~22.04.23
-    
-    </aside>
-    
+   <img src = "https://ibb.co/Fb2xkjf " />
+
+
 - **리팩토링 기간: 2022.05.10 ~ 2022.05.22**
 
 - **팀 프로젝트 인원 : 구아현, 이선호, 정성현, 조해윤, 황주원 총 5명**
     
-     
-    
-    <aside>
-    🧑🏻‍💻 프론트엔드 : 정성현, 황주원
-    
-    </aside>
-    
-    <aside>
-    🧑🏻‍💻 백엔드 : 구아현, 이선호
-    
-    </aside>
-    
-    <aside>
-    👩🏻‍💻 총괄 : 조해윤
-    
-    </aside>
+    - 🧑🏻‍💻 프론트엔드 : 정성현, 황주원
+    - 🧑🏻‍💻 백엔드 : 구아현, 이선호
+    - 👩🏻‍💻 총괄 : 조해윤
     
 - **리팩토링 인원: 구아현, 정셩현, 황주원 총 3명**
+    - 🧑🏻‍💻 구아현: 사용자(user) 부분 코드 리팩토링 및 추가 기능 구현
+    - 🧑🏻‍💻 황주원: 게시판(board) 부분 코드 리팩토링 및 추가 기능 구현
+    - 👩🏻‍💻 정성현: 전체 코드 리팩토링 및 추가 기능 구현
     
-    
-    <aside>
-    🧑🏻‍💻 구아현: 사용자(user) 부분 코드 리팩토링 및 추가 기능 구현
-    
-    </aside>
-    
-    <aside>
-    🧑🏻‍💻 황주원: 게시판(board) 부분 코드 리팩토링 및 추가 기능 구현
-    
-    </aside>
-    
-    <aside>
-    👩🏻‍💻 정성현: 전체 코드 리팩토링 및 추가 기능 구현
-    
-    </aside>
-    
-
 ---
 
 # 🐱기획 의도
 
-<aside>
-📌 댕냥이와 같이 여행 할 수 있는 장소를 서로 공유하여
-함께 반려동물 동반 여행 지도를 만들어 가는 여행 플랫폼!
+📌 댕냥이와 같이 여행 할 수 있는 장소를 서로 공유하여 <br />
+함께 반려동물 동반 여행 지도를 만들어 가는 여행 플랫폼! <br /> <br />
 
-냥도놀러가고싶댕은 강원도 여행을 좋아하고
-반려동물을 💖사랑하는 모두에게💖 열려 있습니다.
-
-</aside>
+냥도놀러가고싶댕은 강원도 여행을 좋아하고 <br />
+반려동물을 💖사랑하는 모두에게💖 열려 있습니다. <br />
 
 # 🐱화면 설계 및 기능 구성
 
 - 로고, 화면 설계, 기능 구성
 
-<aside>
-🔗 [https://drive.google.com/drive/folders/1a44wdBKWE6OrUSmXG6B3PWgNdIsPQH7S](https://drive.google.com/drive/folders/1a44wdBKWE6OrUSmXG6B3PWgNdIsPQH7S)
-
-</aside>
+🔗 [https://drive.google.com/drive/folders/1a44wdBKWE6OrUSmXG6B3PWgNdIsPQH7S]
 
 # 🐱ERD
 
-![ERD_v2.png](%E1%84%82%E1%85%A3%E1%86%BC%E1%84%83%E1%85%A9%20%E1%84%82%E1%85%A9%E1%86%AF%E1%84%85%E1%85%A5%E1%84%80%E1%85%A1%E1%84%80%E1%85%A9%20%E1%84%89%E1%85%B5%E1%87%81%E1%84%83%E1%85%A2%E1%86%BC%20-%20%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%83%E1%85%A9%20%E1%84%87%E1%85%A1%E1%86%AB%E1%84%85%E1%85%A7%E1%84%83%E1%85%A9%E1%86%BC%E1%84%86%E1%85%AE%E1%86%AF%20%E1%84%8B%E1%85%A7%E1%84%92%E1%85%A2%2005f70225dee54eeeb9c4d1848ac5d807/ERD_v2.png)
+<img src = "https://ibb.co/5kbxpr2"/>
 
 # 🐱기능 소개
 
-<aside>
-📎 기능 구성도
-
-</aside>
-
-![기능구성도_220423_수정본.png](%E1%84%82%E1%85%A3%E1%86%BC%E1%84%83%E1%85%A9%20%E1%84%82%E1%85%A9%E1%86%AF%E1%84%85%E1%85%A5%E1%84%80%E1%85%A1%E1%84%80%E1%85%A9%20%E1%84%89%E1%85%B5%E1%87%81%E1%84%83%E1%85%A2%E1%86%BC%20-%20%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%83%E1%85%A9%20%E1%84%87%E1%85%A1%E1%86%AB%E1%84%85%E1%85%A7%E1%84%83%E1%85%A9%E1%86%BC%E1%84%86%E1%85%AE%E1%86%AF%20%E1%84%8B%E1%85%A7%E1%84%92%E1%85%A2%2005f70225dee54eeeb9c4d1848ac5d807/%EA%B8%B0%EB%8A%A5%EA%B5%AC%EC%84%B1%EB%8F%84_220423_%EC%88%98%EC%A0%95%EB%B3%B8.png)
+<img src = "https://ibb.co/M7HNkVT " />
 
 # 🐱****프로젝트 개발 환경****
 
-![icon_common.png](%E1%84%82%E1%85%A3%E1%86%BC%E1%84%83%E1%85%A9%20%E1%84%82%E1%85%A9%E1%86%AF%E1%84%85%E1%85%A5%E1%84%80%E1%85%A1%E1%84%80%E1%85%A9%20%E1%84%89%E1%85%B5%E1%87%81%E1%84%83%E1%85%A2%E1%86%BC%20-%20%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%83%E1%85%A9%20%E1%84%87%E1%85%A1%E1%86%AB%E1%84%85%E1%85%A7%E1%84%83%E1%85%A9%E1%86%BC%E1%84%86%E1%85%AE%E1%86%AF%20%E1%84%8B%E1%85%A7%E1%84%92%E1%85%A2%2005f70225dee54eeeb9c4d1848ac5d807/icon_common.png)
+<img src = "https://ibb.co/wLqgGH1" />
 
 - **개발 언어**: Java 11, HTML 5, CSS, JavaScript
 - **DataBase**: MariaDB 10.6
@@ -152,9 +107,9 @@
 
 | 관광정보와 네이버 지도API 연계 기능 | 카테고리 별 관광정보 리스트 제공 |
 |------|------|
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
+|![이미지1](https://ibb.co/nzw2BRn)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
 | 관광정보 상세보기 기능 | 관광정보 좋아요, 즐겨찾기 기능  |
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
+|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ibb.co/5rVFj8x)|
 
 ## 🙋‍♀️ ****유저 관련 기능****
 - 회원가입 시 유저 네임 중복 체크 기능
@@ -166,11 +121,11 @@
 
 | 회원가입 시 유저 네임 중복 체크 기능 | 로그인 시 쿠키에 username 기억 기능 |
 |------|------|
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
+|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ibb.co/zxqhdS7)|
 | 로그아웃 기능 | 회원정보 수정기능 |
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
+|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ibb.co/kHRYwdr)|
 | 회원탈퇴 기능 | 아이디/비밀번호 찾기 |
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
+|![이미지1](https://ibb.co/CbQZkLB)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
 
 
 ## 🙋‍♀️ ****게시글 관련 기능****
@@ -182,11 +137,11 @@
 |------|------|
 |![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
 | 글 상세보기 | 글 수정 |
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
+|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ibb.co/nRshyrR)|
 | 글 삭제하기 | 글 좋아요 |
 |![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
 | 이미지 업로드(썸네일) | 댓글 기능 |
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
+|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ibb.co/9bJ5Xfj)|
 
 
 ## 🙋‍♀️ ****게시글 관련 기능****
@@ -196,7 +151,7 @@
 
 | 관리자 회원가입 | 회원 게시글 삭제 |
 |------|------|
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
+|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://i.imgur.com/A6gpri3.gif)|
 | 회원 댓글 삭제 | 전체 데이터 받기 |
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
+|![이미지1](https://ibb.co/jbvqLCn)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
 
