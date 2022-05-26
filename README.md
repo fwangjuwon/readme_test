@@ -17,6 +17,7 @@
     - 🧑🏻‍💻 황주원: 게시판(board) 부분 코드 리팩토링 및 추가 기능 구현
     - 👩🏻‍💻 정성현: 전체 코드 리팩토링 및 추가 기능 구현
 
+<br/>
 
 <details>
 <summary>프로젝트 일정 상세 보기</summary>
@@ -71,7 +72,7 @@
 <br/>
 <br/>
 
- ## 🐱 프로젝트 개발환경
+ ## 🐱 사용 기술
 
 <img src="https://img.shields.io/badge/-Java-007396"/>  <img src="https://img.shields.io/badge/-Spring-6DB33F"/>  <img src="https://img.shields.io/badge/-Apach%20Tomcat-F8DC75"/> <img src="https://img.shields.io/badge/-MariaDB-071D49"/> 
 <img src="https://img.shields.io/badge/-HTML5-E34F26"/> <img src="https://img.shields.io/badge/-CSS-1572B6"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E"/> <img src="https://img.shields.io/badge/-JQuery-0769AD"/> 
@@ -88,21 +89,24 @@
     Google Font API([https://fonts.google.com/](https://fonts.google.com/))
     
 - **Library**
-- **Front**
-    - Bootstrap 5.1.3
-    - jQuery 3.5.1
-    - Summernote
-    - Mustache
-    - FontAwesome 5.15.2
-- **Back**
-    - Spring Web
-    - Spring Boot Devtools
-    - Lombok
-    - MariaDB Driver
-    - Spring Data JPA
-    - Validation
+- ***Front***
+    - Bootstrap 5.1.3, jQuery 3.5.1, Summernote, Mustache, FontAwesome 5.15.2
+- ***Back***
+    - Spring Web, Spring Boot Devtools, Lombok, MariaDB Driver, Spring Data JPA, Validation
 - **개발 환경** : VS Code, SpringBoot 2.5.12, Gradle, Lombok, JPA
 - **협업 툴** : GitHub, Trello, Discord, Kakaotalk, GoogleDrive, Slack
+
+<details>
+<summary>협업 툴 사용 사례</summary>
+<div markdown="1">
+
+<img width="1046" alt="Screenshot_86" src="https://user-images.githubusercontent.com/97711663/170505791-7e1c9372-eba3-46c7-b5d8-c25ba7100f07.png">
+<img width="907" alt="Screenshot_87" src="https://user-images.githubusercontent.com/97711663/170505803-a8ef520e-81b4-4c3c-b7df-bc6a575a02ad.png">
+<img width="909" alt="Screenshot_88" src="https://user-images.githubusercontent.com/97711663/170505806-624732f1-34ac-435e-b1eb-b2120bd7219c.png">
+
+
+</div>
+</details>
 
 <br/>
 <br/>
