@@ -97,8 +97,7 @@
 |------|------|
 |![map](https://user-images.githubusercontent.com/97711663/170491895-d6c51722-c769-4823-8f05-44a2160586d5.gif)|![place-outline](https://user-images.githubusercontent.com/97711663/170491949-5591f95b-6f79-404c-ae05-b2614ddd7baa.gif)|
 | 관광정보 상세보기 기능 | 관광정보 검색 기능  |
-|![place-outline](https://user-images.githubusercontent.com/97711663/170491949-5591f95b-6f79-404c-ae05-b2614ddd7baa.gif)
-|![find-place](https://user-images.githubusercontent.com/97711663/170491824-4753708c-10b9-40f3-a2a6-8b6e310bfd05.gif)|
+|![place-detail](https://user-images.githubusercontent.com/97711663/170492295-db803e9d-bd7b-4c15-9db7-d7fbf3c3de34.gif)|![find-place](https://user-images.githubusercontent.com/97711663/170491824-4753708c-10b9-40f3-a2a6-8b6e310bfd05.gif)|
 
 <br/>
 
@@ -112,9 +111,10 @@
 
 | 회원가입 시 유저 네임 중복 체크 기능 | 로그인 시 쿠키에 username 기억 기능 |
 |------|------|
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://imgur.com/GT437YF)|
+|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![remember-id](https://user-images.githubusercontent.com/97711663/170492417-fe860e5f-e1f0-4d70-839b-ab196f17f513.gif)
+|
 | 로그아웃 기능 | 회원정보 수정기능 |
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>|
+|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![update-mypage](https://user-images.githubusercontent.com/97711663/170492434-c4aaf604-cfea-4a1d-af67-4cf9725760fa.gif)|
 | 회원탈퇴 기능 | 아이디/비밀번호 찾기 |
 |![이미지1](https://imgur.com/lr53XPY)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
 <br/>
@@ -128,7 +128,8 @@
 |------|------|
 |![board-write](https://user-images.githubusercontent.com/97711663/170490633-6f6afccf-fc34-4706-938e-40bb53775b96.gif)|![delete-comment](https://user-images.githubusercontent.com/97711663/170489060-5235a094-0f9a-48af-83d2-f29a8e3aa3a0.gif)|
 | 글 상세보기 | 글 수정 |
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://imgur.com/eLNYV9h)|
+|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![update-board](https://user-images.githubusercontent.com/97711663/170492401-832bdc7b-2ccc-45b9-aac9-c4e76f24bee9.gif)
+|
 | 글 삭제하기 | 글 좋아요 |
 |![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
 | 이미지 업로드(썸네일) | 댓글 기능 |
