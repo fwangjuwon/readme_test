@@ -112,7 +112,7 @@
 |------|------|
 |![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://imgur.com/GT437YF)|
 | 로그아웃 기능 | 회원정보 수정기능 |
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://imgur.com/KAZ0o49)|
+|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|<blockquote class="imgur-embed-pub" lang="en" data-id="KAZ0o49"><a href="https://imgur.com/KAZ0o49">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>|
 | 회원탈퇴 기능 | 아이디/비밀번호 찾기 |
 |![이미지1](https://imgur.com/lr53XPY)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
 <br/>
