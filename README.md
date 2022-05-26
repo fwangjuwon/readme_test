@@ -141,8 +141,8 @@
 | 관리자 회원가입 | 회원 게시글 삭제 |
 |------|------|
 |![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://i.imgur.com/A6gpri3.gif)|
-| 회원 댓글 삭제 | 전체 데이터 받기 |
-|![이미지1](https://ibb.co/jbvqLCn)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
+| 관리자 공지사항 작성 | 전체 데이터 받기 |
+|![이미지1](https://ibb.co/Ypb2v8Z)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
 <br/>
 <br/>
 
