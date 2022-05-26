@@ -125,7 +125,7 @@
 | 글 쓰기 | 글 목록 |
 |------|------|
 |![board-write](https://user-images.githubusercontent.com/97711663/170489039-638437d4-91b4-4ecc-8c45-bfe01daa2bfa.gif)
-|![delete-comment](https://user-images.githubusercontent.com/97711663/170489060-5235a094-0f9a-48af-83d2-f29a8e3aa3a0.gif))|
+|![delete-comment](https://user-images.githubusercontent.com/97711663/170489060-5235a094-0f9a-48af-83d2-f29a8e3aa3a0.gif)|
 | 글 상세보기 | 글 수정 |
 |![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://imgur.com/eLNYV9h)|
 | 글 삭제하기 | 글 좋아요 |
