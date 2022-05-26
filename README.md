@@ -3,7 +3,12 @@
 ###  **Spring Boot를 활용한 반려동물 동반 여행 플랫폼 만들기**
 
 - **팀 프로젝트 기간 : 2022.03.21~2022.04.23**
+<details>
+<summary>프로젝트 일정 상세 보기</summary>
+<div markdown="1">
 ![프로젝트_일정](https://user-images.githubusercontent.com/97711663/170500135-528d2bc0-446e-4701-bb38-3cceae650e39.jpg)
+</div>
+</details>
 
 - **리팩토링 기간: 2022.05.10 ~ 2022.05.22**
 <br />
@@ -40,10 +45,12 @@
   
 ### ERD
 ![ERD_v2](https://user-images.githubusercontent.com/97711663/170499707-eb1fe59c-3118-4621-a4c7-9fac8031f1ea.png)
+<br/>
 
 ###  기능 구성도
 
 ![기능구성도_220423_수정본](https://user-images.githubusercontent.com/97711663/170500123-5e8a1cd2-79fe-4e4d-9ad7-ec9764a26a0c.jpg)
+<br/>
 
 ### 화면설계
 
