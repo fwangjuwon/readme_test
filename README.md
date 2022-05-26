@@ -142,7 +142,8 @@
 |------|------|
 |![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://i.imgur.com/A6gpri3.gif)|
 | 관리자 공지사항 작성 | 전체 데이터 받기 |
-|      <img src="/gif/admin-notice.gif" />|![이미지2](https://ifh.cc/g/v8C230.jpg)|
+| ![admin-notice](https://user-images.githubusercontent.com/97711663/170488773-cc2f7036-997b-41e3-b296-81251597a8ed.gif)
+|![이미지2](https://ifh.cc/g/v8C230.jpg)|
 <br/>
 <br/>
 
