@@ -3,7 +3,7 @@
 ###  **Spring Boot를 활용한 반려동물 동반 여행 플랫폼 만들기**
 
 - **팀 프로젝트 기간 : 2022.03.21~2022.04.23**
-<a href="https://ibb.co/2dh5Ck9"><img src="https://i.ibb.co/sqRtNVf/image.jpg" alt="image" border="0"></a>
+![프로젝트_일정](https://user-images.githubusercontent.com/97711663/170500135-528d2bc0-446e-4701-bb38-3cceae650e39.jpg)
 
 - **리팩토링 기간: 2022.05.10 ~ 2022.05.22**
 <br />
@@ -25,7 +25,7 @@
 ## 🐱기획 의도
 
 📌 댕냥이와 같이 여행 할 수 있는 장소를 서로 공유하여 <br />
-함께 반려동물 동반 여행 지도를 만들어 가는 여행 플랫폼! <br /> <br />
+함께 반려동물 동반 여행 지도를 만들어 가는 여행 플랫폼! <br /> 
 
 냥도놀러가고싶댕은 강원도 여행을 좋아하고 <br />
 반려동물을 💖사랑하는 모두에게💖 열려 있습니다. <br />
@@ -40,19 +40,20 @@
 
 ## 🐱ERD
 
-<a href="https://ibb.co/kyChTdt"><img src="https://i.ibb.co/264jrbT/ERD-v2.png" alt="ERD-v2" border="0"></a>
+![ERD_v2](https://user-images.githubusercontent.com/97711663/170499707-eb1fe59c-3118-4621-a4c7-9fac8031f1ea.png)
 
 <br/>
 <br/>
 
 ## 🐱 기능 구성도
 
-<a href="https://ibb.co/C10zpSH"><img src="https://i.ibb.co/vwzHCMj/220423.jpg" alt="220423" border="0"></a>
+![기능구성도_220423_수정본](https://user-images.githubusercontent.com/97711663/170500123-5e8a1cd2-79fe-4e4d-9ad7-ec9764a26a0c.jpg)
 <br/>
 <br/>
  ## 🐱 프로젝트 개발환경
 
-<a href="https://ibb.co/Y7qVHXM"><img src="https://i.ibb.co/SX9ZFc8/icon-common.jpg" alt="icon-common" border="0"></a>
+![icon_common](https://user-images.githubusercontent.com/97711663/170500137-1ad854e5-89a2-4c0b-b0d2-5a998c5ebfdc.jpg)
+
 <br/>
 <br/>
 - **개발 언어**: Java 11, HTML 5, CSS, JavaScript
@@ -142,7 +143,7 @@
 |------|------|
 |![admin-join](https://user-images.githubusercontent.com/97711663/170496542-fc722e55-94ae-4b34-9f5e-25ed6b15172c.gif)|![admin-delete](https://user-images.githubusercontent.com/97711663/170496568-eebbde59-e105-4807-b10c-cd166bc26781.gif)|
 | 관리자 공지사항 작성 | 전체 데이터 받기 |
-|![admin-notice](https://user-images.githubusercontent.com/97711663/170490134-bdd75d47-7430-4ce9-952c-10197b400aef.gif)|![admin-notice](https://user-images.githubusercontent.com/97711663/170490134-bdd75d47-7430-4ce9-952c-10197b400aef.gif)|
+|![admin-notice](https://user-images.githubusercontent.com/97711663/170490134-bdd75d47-7430-4ce9-952c-10197b400aef.gif)|![admindata](https://user-images.githubusercontent.com/97711663/170498805-b0b20f44-043c-40b4-b7c9-f41c9e8beba4.gif)|
 <br/>
 <br/>
 
@@ -154,20 +155,22 @@
 <br/>
 <br/>
 
-## 🐱****프로젝트 후기****
+## 🐱****프로젝트 및 리팩토링 후기****
 
 - 좋았던 점
-    - 시간이 부족하여 계획했던 기능을 다 구현하지 못했지만 리팩토링 기간동안 추가 기능을 다 구현해 낼 수 있어서 뿌듯했다.
-    - 프론트도 함께 맡아 구현하니 새로운 개념들을 알아가며 더 배울 수 있었고, 프론트와 백의 소통이 중요하다는 것을 깨달았다.
-    - 배웠던 기술을 프로젝트에 응용하여 팀원들과 함께 개발하면서 개념을 완벽하게 익힐 수 있었던 시간이었다.
+    - 1차 프로젝트 때는 시간이 부족하여 계획했던 기능을 다 구현하지 못했지만 리팩토링 기간동안 추가 기능을 다 구현해 낼 수 있어서 뿌듯했다.
+    - 프론트도 함께 맡아 구현하니 새로운 개념들을 알아가며 더 배울 수 있었다. 
+    - 리팩토링 기간동안, 프론트엔드 구성원이 백엔드에 같이 참여하면서 더 다양한 경험을 할 수 있게 되어 좋았다.
+    - 배웠던 기술을 프로젝트에 응용하여 팀원들과 함께 개발하면서 개념을 재정립할 수 있었던 시간이었다.
     - 다양한 오류를 접하면서 원인을 찾고, 해결하면서 다시 한 번 공부하고 이해하는 계기가 되었다.
-    - 수업 때 배우지 않은 기능을 찾아보고, 구현하며 더 많이 배울 수 있었다.
-    
+    - 1차 프로젝트 기간동안 해결하지 못했던 오류를 리팩토링 기간에 발견하고 고칠 수 있었던 점이 가장 좋았다. 
+
 - 보완할 점
     - 프로젝트를 같이 모의하기에 앞서 팀원 개인의 실력과 수준을 정확하게 알고 역할 분담하는 것이 중요하다고 느꼈다.
     - 세부적인 기능 설정을 구현하면서 정하였고, 일정을 세세하게 관리하지 않아 후반에는 시간이 촉박했다. 이번 프로젝트를 통해 프로젝트 일정 관리와 기획 및 설계 단계에서 명확한 설계가 필요하다는 것을 느꼈다.
     - 중복되는 코드가 많아 코드가 깔끔하지 않았다.
     - 자신이 만드는 코드에 주석을 통해 간략한 정보나 기능을 명시하지 않아  전체적인 코드를 파악 힘들어 수정에 어려움이 있었다.
     - 협업툴(github)에 대한 이해도와 사용법에 대한 지식이 부족하여 버전관리 하기 힘들었다.
+    - 하지만 리팩토링 기간동안 협업툴 사용법을 제대로 숙지하여 훨씬 깔끔한 커밋 정리를 할 수 있었다. 
     - 의사소통 미흡으로 각자 진행/변동 사항 파악이 제대로 이루어지지 않아 전체적인 일정에 차질이 발생했다. 주기적인 회의가 필요한 것 같다.
   
