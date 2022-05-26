@@ -124,13 +124,14 @@
 
 | 글 쓰기 | 글 목록 |
 |------|------|
-|![이미지1](https://imgur.com/XyEnEau)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
+|![board-write](https://user-images.githubusercontent.com/97711663/170489039-638437d4-91b4-4ecc-8c45-bfe01daa2bfa.gif)
+|![delete-comment](https://user-images.githubusercontent.com/97711663/170489060-5235a094-0f9a-48af-83d2-f29a8e3aa3a0.gif))|
 | 글 상세보기 | 글 수정 |
 |![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://imgur.com/eLNYV9h)|
 | 글 삭제하기 | 글 좋아요 |
 |![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
 | 이미지 업로드(썸네일) | 댓글 기능 |
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://imgur.com/cj4rAhA)|
+|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![comment-write](https://user-images.githubusercontent.com/97711663/170489051-92c7c889-f58e-49aa-bf98-bc07bb728561.gif)|
 <br/>
 
 ### 🙋‍♀️ ****게시글 관련 기능****
