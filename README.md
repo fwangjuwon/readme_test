@@ -26,26 +26,36 @@
 
 냥도놀러가고싶댕은 강원도 여행을 좋아하고 <br />
 반려동물을 💖사랑하는 모두에게💖 열려 있습니다. <br />
-
+<br/>
+<br/>
+<br/>
 
 # 🐱화면 설계 및 기능 구성
 
 - 로고, 화면 설계, 기능 구성
 
 🔗 [https://drive.google.com/drive/folders/1a44wdBKWE6OrUSmXG6B3PWgNdIsPQH7S]
-
+<br/>
+<br/>
+<br/>
 
 # 🐱ERD
-<a href="https://ibb.co/XSGXX1J"><img src="https://i.ibb.co/dGHBBFK/Screenshot-82.png" alt="Screenshot-82" border="0"></a>
+<a href="https://ibb.co/kyChTdt"><img src="https://i.ibb.co/264jrbT/ERD-v2.png" alt="ERD-v2" border="0"></a>
 
-
+<br/>
+<br/>
+<br/>
 # 🐱기능 소개
 
-<a href="https://ibb.co/48g7Y6F"><img src="https://i.ibb.co/D9gt8x1/Screenshot-83.png" alt="Screenshot-83" border="0"></a>
-
+<a href="https://ibb.co/XSGXX1J"><img src="https://i.ibb.co/dGHBBFK/Screenshot-82.png" alt="Screenshot-82" border="0"></a>
+<br/>
+<br/>
+<br/>
 # 🐱****프로젝트 개발 환경****
 <a href="https://ibb.co/wLqgGH1"><img src="https://i.ibb.co/7zDCMcF/icon-common.png" alt="icon-common" border="0" /></a>
-
+<br/>
+<br/>
+<br/>
 - **개발 언어**: Java 11, HTML 5, CSS, JavaScript
 - **DataBase**: MariaDB 10.6
 - **API**
