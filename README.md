@@ -137,7 +137,7 @@
 
 # 🐱구현 결과
 
-🔗 [시연 영상 링크](https://youtu.be/xCVd9cn0hUE)
+🔗 [시연 영상 링크](https://youtu.be/EEdzvkBXGnE)
 
 
 
