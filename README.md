@@ -111,16 +111,11 @@
 
 | 회원가입 시 유저 네임 중복 체크 기능 | 로그인 시 쿠키에 username 기억 기능 |
 |------|------|
-|![usernamecheck](https://user-images.githubusercontent.com/97711663/170496361-4c44e47b-8094-40cb-a02e-46dca57022bc.gif)
-|![remember-id](https://user-images.githubusercontent.com/97711663/170492868-859f56bd-80af-4f1c-927c-52e2aec5f5ab.gif)|
+|![usernamecheck](https://user-images.githubusercontent.com/97711663/170496361-4c44e47b-8094-40cb-a02e-46dca57022bc.gif)|![remember-id](https://user-images.githubusercontent.com/97711663/170492868-859f56bd-80af-4f1c-927c-52e2aec5f5ab.gif)|
 | 로그아웃 기능 | 회원정보 수정기능 |
-|![logout](https://user-images.githubusercontent.com/97711663/170496374-3dd16d88-8e06-4631-ba26-1c7e1e9a57b7.gif)
-|![userchange](https://user-images.githubusercontent.com/97711663/170496397-d4c85654-bfda-47ed-99c0-b81423a3bb0e.gif)
-|
+|![logout](https://user-images.githubusercontent.com/97711663/170496374-3dd16d88-8e06-4631-ba26-1c7e1e9a57b7.gif)|![userchange](https://user-images.githubusercontent.com/97711663/170496397-d4c85654-bfda-47ed-99c0-b81423a3bb0e.gif)|
 | 회원탈퇴 기능 | 아이디/비밀번호 찾기 |
-|![userdelete](https://user-images.githubusercontent.com/97711663/170496420-759d8963-d371-4658-8b52-dfaf59efc76b.gif)
-|![findid](https://user-images.githubusercontent.com/97711663/170496444-122d40ec-a8a1-4d40-9048-0ffaddb9a965.gif)
-|
+|![userdelete](https://user-images.githubusercontent.com/97711663/170496420-759d8963-d371-4658-8b52-dfaf59efc76b.gif)|![findid](https://user-images.githubusercontent.com/97711663/170496444-122d40ec-a8a1-4d40-9048-0ffaddb9a965.gif)|
 <br/>
 
 ### 🙋‍♀️ ****게시글 관련 기능****
@@ -130,15 +125,11 @@
 
 | 글 쓰기 | 글 목록 |
 |------|------|
-|![board-write](https://user-images.githubusercontent.com/97711663/170490633-6f6afccf-fc34-4706-938e-40bb53775b96.gif)|![boardlist](https://user-images.githubusercontent.com/97711663/170496473-0e18e514-30c5-4562-abf3-e37c7dd4d8d2.gif)
-|
+|![board-write](https://user-images.githubusercontent.com/97711663/170490633-6f6afccf-fc34-4706-938e-40bb53775b96.gif)|![boardlist](https://user-images.githubusercontent.com/97711663/170496473-0e18e514-30c5-4562-abf3-e37c7dd4d8d2.gif)|
 | 글 상세보기 | 글 수정 |
-|![boarddetail](https://user-images.githubusercontent.com/97711663/170496486-a31aa49e-9ef3-4078-8fbb-977ff729600e.gif)
-|![update-board](https://user-images.githubusercontent.com/97711663/170492401-832bdc7b-2ccc-45b9-aac9-c4e76f24bee9.gif)
-|
+|![boarddetail](https://user-images.githubusercontent.com/97711663/170496486-a31aa49e-9ef3-4078-8fbb-977ff729600e.gif)|![update-board](https://user-images.githubusercontent.com/97711663/170492401-832bdc7b-2ccc-45b9-aac9-c4e76f24bee9.gif)|
 | 글 삭제하기 | 댓글 기능 |
-|![board-delete](https://user-images.githubusercontent.com/97711663/170496515-aaee6209-99b2-4a4a-a7f5-26db7f609052.gif)
-|![comment-write](https://user-images.githubusercontent.com/97711663/170490623-6bced2ec-9e4f-498a-a0be-52933ac47de2.gif)|
+|![board-delete](https://user-images.githubusercontent.com/97711663/170496515-aaee6209-99b2-4a4a-a7f5-26db7f609052.gif)|![comment-write](https://user-images.githubusercontent.com/97711663/170490623-6bced2ec-9e4f-498a-a0be-52933ac47de2.gif)|
 
 <br/>
 
@@ -149,9 +140,7 @@
 
 | 관리자 회원가입 | 회원 게시글 삭제 |
 |------|------|
-|![admin-join](https://user-images.githubusercontent.com/97711663/170496542-fc722e55-94ae-4b34-9f5e-25ed6b15172c.gif)
-|![admin-delete](https://user-images.githubusercontent.com/97711663/170496568-eebbde59-e105-4807-b10c-cd166bc26781.gif)
-|
+|![admin-join](https://user-images.githubusercontent.com/97711663/170496542-fc722e55-94ae-4b34-9f5e-25ed6b15172c.gif)|![admin-delete](https://user-images.githubusercontent.com/97711663/170496568-eebbde59-e105-4807-b10c-cd166bc26781.gif)|
 | 관리자 공지사항 작성 | 전체 데이터 받기 |
 |![admin-notice](https://user-images.githubusercontent.com/97711663/170490134-bdd75d47-7430-4ce9-952c-10197b400aef.gif)|![admin-notice](https://user-images.githubusercontent.com/97711663/170490134-bdd75d47-7430-4ce9-952c-10197b400aef.gif)|
 <br/>
