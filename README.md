@@ -95,9 +95,9 @@
 
 | 관광정보와 네이버 지도API 연계 기능 | 카테고리 별 관광정보 리스트 제공 |
 |------|------|
-|![이미지1](https://imgur.com/9fEDw9X)|![이미지2](https://imgur.com/HtrC9SD)|
+|<img src="/gif/map.gif" />|<img src="/gif/place-outline.gif" />|
 | 관광정보 상세보기 기능 | 관광정보 검색 기능  |
-|![이미지1](https://imgur.com/8DNxXNK)|![이미지2](https://imgur.com/2m05rVi)|
+|<img src="/gif/place-detail.gif" />|<img src="/gif/find-place.gif" />|
 <br/>
 
 ### 🙋‍♀️ ****유저 관련 기능****
@@ -142,7 +142,7 @@
 |------|------|
 |![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://i.imgur.com/A6gpri3.gif)|
 | 관리자 공지사항 작성 | 전체 데이터 받기 |
-|![이미지1](https://imgur.com/tsWe8sr)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
+|      <img src="/gif/admin-notice.gif" />|![이미지2](https://ifh.cc/g/v8C230.jpg)|
 <br/>
 <br/>
 
