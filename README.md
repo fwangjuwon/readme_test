@@ -97,12 +97,19 @@
 - **협업 툴** : GitHub, Trello, Discord, Kakaotalk, GoogleDrive, Slack
 
 <details>
-<summary>협업 툴 사용 사례</summary>
+<summary>협업 툴 사용 사례 상세보기</summary>
 <div markdown="1">
 
+### Trello
 <img width="1046" alt="Screenshot_86" src="https://user-images.githubusercontent.com/97711663/170505791-7e1c9372-eba3-46c7-b5d8-c25ba7100f07.png">
+
+### Slack
 <img width="907" alt="Screenshot_87" src="https://user-images.githubusercontent.com/97711663/170505803-a8ef520e-81b4-4c3c-b7df-bc6a575a02ad.png">
 <img width="909" alt="Screenshot_88" src="https://user-images.githubusercontent.com/97711663/170505806-624732f1-34ac-435e-b1eb-b2120bd7219c.png">
+
+### Discord
+<img width="699" alt="Screenshot_89" src="https://user-images.githubusercontent.com/97711663/170506580-215f0512-7877-4ff3-820b-ea34654ed67b.png">
+<br/>
 
 
 </div>
