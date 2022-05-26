@@ -95,10 +95,10 @@
 
 | 관광정보와 네이버 지도API 연계 기능 | 카테고리 별 관광정보 리스트 제공 |
 |------|------|
-|![map](https://user-images.githubusercontent.com/97711663/170489608-52906443-0bd5-48fe-ba67-30d49479186a.gif)
-|<img src="/gif/place-outline.gif" />|
+|![map](https://user-images.githubusercontent.com/97711663/170491895-d6c51722-c769-4823-8f05-44a2160586d5.gif)|![place-outline](https://user-images.githubusercontent.com/97711663/170491949-5591f95b-6f79-404c-ae05-b2614ddd7baa.gif)
+|
 | 관광정보 상세보기 기능 | 관광정보 검색 기능  |
-|<img src="/gif/place-detail.gif" />|<img src="/gif/find-place.gif" />|
+|<img src="/gif/place-detail.gif" />|![find-place](https://user-images.githubusercontent.com/97711663/170491824-4753708c-10b9-40f3-a2a6-8b6e310bfd05.gif)|
 <br/>
 
 ### 🙋‍♀️ ****유저 관련 기능****
