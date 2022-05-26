@@ -5,16 +5,6 @@
 - **팀 프로젝트 기간 : 2022.03.21~2022.04.23**
 - **리팩토링 기간: 2022.05.10 ~ 2022.05.22**
 
-<details>
-<summary>프로젝트 일정 상세 보기</summary>
-<div markdown="1">
-
-![프로젝트_일정](https://user-images.githubusercontent.com/97711663/170500135-528d2bc0-446e-4701-bb38-3cceae650e39.jpg)
-
-</div>
-</details>
-
-
 - **팀 프로젝트 인원 : 구아현, 이선호, 정성현, 조해윤, 황주원 총 5명**
     
     - 🧑🏻‍💻 프론트엔드 : 정성현, 황주원
@@ -25,6 +15,15 @@
     - 🧑🏻‍💻 구아현: 사용자(user) 부분 코드 리팩토링 및 추가 기능 구현
     - 🧑🏻‍💻 황주원: 게시판(board) 부분 코드 리팩토링 및 추가 기능 구현
     - 👩🏻‍💻 정성현: 전체 코드 리팩토링 및 추가 기능 구현
+
+    <details>
+<summary>프로젝트 일정 상세 보기</summary>
+<div markdown="1">
+
+![프로젝트_일정](https://user-images.githubusercontent.com/97711663/170500135-528d2bc0-446e-4701-bb38-3cceae650e39.jpg)
+
+</div>
+</details>
     
 <br/>
 <br />
@@ -72,7 +71,9 @@
 
  ## 🐱 프로젝트 개발환경
 
-![icon_common](https://user-images.githubusercontent.com/97711663/170500137-1ad854e5-89a2-4c0b-b0d2-5a998c5ebfdc.jpg)
+<img src="https://img.shields.io/badge/-Java-007396"/>  <img src="https://img.shields.io/badge/-Spring-6DB33F"/>  <img src="https://img.shields.io/badge/-Apach%20Tomcat-F8DC75"/> <img src="https://img.shields.io/badge/-MariaDB-071D49"/> 
+<img src="https://img.shields.io/badge/-HTML5-E34F26"/> <img src="https://img.shields.io/badge/-CSS-1572B6"/> <img src="https://img.shields.io/badge/-JavaScript-F7DF1E"/> <img src="https://img.shields.io/badge/-JQuery-0769AD"/> 
+<img src="https://img.shields.io/badge/-Github-181717"/> <img src="https://img.shields.io/badge/-Git-F05032"/> <img src="https://img.shields.io/badge/-FontAwesome-528DD7"/> <img src="https://img.shields.io/badge/-BootStrap-7952B3"/> 
 
 <br/>
 <br/>
