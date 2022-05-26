@@ -142,7 +142,7 @@
 |------|------|
 |![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://i.imgur.com/A6gpri3.gif)|
 | 관리자 공지사항 작성 | 전체 데이터 받기 |
-|![이미지1](https://ibb.co/Ypb2v8Z)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
+|<a href="https://ibb.co/Ypb2v8Z"><img src="https://i.ibb.co/cDxJztL/admin-notice.gif" alt="admin-notice" border="0"></a>|![이미지2](https://ifh.cc/g/v8C230.jpg)|
 <br/>
 <br/>
 
