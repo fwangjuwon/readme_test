@@ -95,9 +95,9 @@
 
 | 관광정보와 네이버 지도API 연계 기능 | 카테고리 별 관광정보 리스트 제공 |
 |------|------|
-|![이미지1](https://ibb.co/nzw2BRn)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
-| 관광정보 상세보기 기능 | 관광정보 좋아요, 즐겨찾기 기능  |
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ibb.co/5rVFj8x)|
+|![이미지1](https://imgur.com/9fEDw9X)|![이미지2](https://imgur.com/HtrC9SD)|
+| 관광정보 상세보기 기능 | 관광정보 검색 기능  |
+|![이미지1](https://imgur.com/8DNxXNK)|![이미지2](https://imgur.com/2m05rVi)|
 <br/>
 
 ### 🙋‍♀️ ****유저 관련 기능****
@@ -110,11 +110,11 @@
 
 | 회원가입 시 유저 네임 중복 체크 기능 | 로그인 시 쿠키에 username 기억 기능 |
 |------|------|
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ibb.co/zxqhdS7)|
+|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://imgur.com/GT437YF)|
 | 로그아웃 기능 | 회원정보 수정기능 |
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|<a href="https://ibb.co/1MnQYZC"><img src="https://i.ibb.co/2S6h0qz/update-user.gif" alt="update-user" border="0" /></a>|
+|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://imgur.com/KAZ0o49)|
 | 회원탈퇴 기능 | 아이디/비밀번호 찾기 |
-|![이미지1](https://ibb.co/CbQZkLB)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
+|![이미지1](https://imgur.com/lr53XPY)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
 <br/>
 
 ### 🙋‍♀️ ****게시글 관련 기능****
@@ -124,13 +124,13 @@
 
 | 글 쓰기 | 글 목록 |
 |------|------|
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
+|![이미지1](https://imgur.com/XyEnEau)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
 | 글 상세보기 | 글 수정 |
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ibb.co/nRshyrR)|
+|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://imgur.com/eLNYV9h)|
 | 글 삭제하기 | 글 좋아요 |
 |![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
 | 이미지 업로드(썸네일) | 댓글 기능 |
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ibb.co/9bJ5Xfj)|
+|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://imgur.com/cj4rAhA)|
 <br/>
 
 ### 🙋‍♀️ ****게시글 관련 기능****
@@ -142,7 +142,7 @@
 |------|------|
 |![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://i.imgur.com/A6gpri3.gif)|
 | 관리자 공지사항 작성 | 전체 데이터 받기 |
-|<a href="https://ibb.co/Ypb2v8Z"><img src="https://i.ibb.co/cDxJztL/admin-notice.gif" alt="admin-notice" border="0"></a>|![이미지2](https://ifh.cc/g/v8C230.jpg)|
+|![이미지1](https://imgur.com/tsWe8sr)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
 <br/>
 <br/>
 
