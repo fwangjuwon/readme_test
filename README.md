@@ -95,7 +95,8 @@
 
 | 관광정보와 네이버 지도API 연계 기능 | 카테고리 별 관광정보 리스트 제공 |
 |------|------|
-|<img src="/gif/map.gif" />|<img src="/gif/place-outline.gif" />|
+|![map](https://user-images.githubusercontent.com/97711663/170489608-52906443-0bd5-48fe-ba67-30d49479186a.gif)
+|<img src="/gif/place-outline.gif" />|
 | 관광정보 상세보기 기능 | 관광정보 검색 기능  |
 |<img src="/gif/place-detail.gif" />|<img src="/gif/find-place.gif" />|
 <br/>
@@ -124,14 +125,13 @@
 
 | 글 쓰기 | 글 목록 |
 |------|------|
-|![board-write](https://user-images.githubusercontent.com/97711663/170489039-638437d4-91b4-4ecc-8c45-bfe01daa2bfa.gif)
-|![delete-comment](https://user-images.githubusercontent.com/97711663/170489060-5235a094-0f9a-48af-83d2-f29a8e3aa3a0.gif)|
+|![board-write](https://user-images.githubusercontent.com/97711663/170490633-6f6afccf-fc34-4706-938e-40bb53775b96.gif)|![delete-comment](https://user-images.githubusercontent.com/97711663/170489060-5235a094-0f9a-48af-83d2-f29a8e3aa3a0.gif)|
 | 글 상세보기 | 글 수정 |
 |![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://imgur.com/eLNYV9h)|
 | 글 삭제하기 | 글 좋아요 |
 |![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
 | 이미지 업로드(썸네일) | 댓글 기능 |
-|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![comment-write](https://user-images.githubusercontent.com/97711663/170489051-92c7c889-f58e-49aa-bf98-bc07bb728561.gif)|
+|![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![comment-write](https://user-images.githubusercontent.com/97711663/170490623-6bced2ec-9e4f-498a-a0be-52933ac47de2.gif)|
 <br/>
 
 ### 🙋‍♀️ ****게시글 관련 기능****
@@ -143,8 +143,7 @@
 |------|------|
 |![이미지1](https://ifh.cc/g/qkLAwL.jpg)|![이미지2](https://i.imgur.com/A6gpri3.gif)|
 | 관리자 공지사항 작성 | 전체 데이터 받기 |
-| ![admin-notice](https://user-images.githubusercontent.com/97711663/170488773-cc2f7036-997b-41e3-b296-81251597a8ed.gif)
-|![이미지2](https://ifh.cc/g/v8C230.jpg)|
+|![admin-notice](https://user-images.githubusercontent.com/97711663/170490134-bdd75d47-7430-4ce9-952c-10197b400aef.gif)|![이미지2](https://ifh.cc/g/v8C230.jpg)|
 <br/>
 <br/>
 
