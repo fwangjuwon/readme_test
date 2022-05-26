@@ -178,7 +178,7 @@
 
 ## 🐱구현 결과
 
-[![미리보기](<img width="814" alt="Screenshot_90" src="https://user-images.githubusercontent.com/97711663/170508765-59abc2d9-21f5-4f3a-ae52-43e8223c52b3.png">)](https://www.youtube.com/watch?v=EEdzvkBXGnE)
+[!<img width="814" alt="Screenshot_90" src="https://user-images.githubusercontent.com/97711663/170508765-59abc2d9-21f5-4f3a-ae52-43e8223c52b3.png">](https://www.youtube.com/watch?v=EEdzvkBXGnE)
 
 
 🔗 [시연 영상 링크](https://youtu.be/EEdzvkBXGnE)
